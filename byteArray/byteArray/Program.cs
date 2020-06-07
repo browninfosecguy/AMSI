@@ -18,7 +18,7 @@ namespace ConsoleApplication1
             // Store integer 182
             int intValue = 49;
             // Convert integer 182 as a hex in a string variable
-            Console.WriteLine( intValue.ToString("X"));
+            Console.WriteLine(intValue.ToString("X"));
             // Convert the hex string back to the number
             //int intAgain = int.Parse(hexValue, System.Globalization.NumberStyles.HexNumber);
         }
