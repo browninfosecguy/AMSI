@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTQ3+ylREfGdLvLiyCaqCxOD+G9TFAcA6+ZjuKS3Nzerk4fHqnEpkPnIRiCpdlinXldPhErNFKNlp2fcr/QPig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\browninfosecguy\\Documents\\GitHub\\AMSI\\byteArray\\byteArray\\byteArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\browninfosecguy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

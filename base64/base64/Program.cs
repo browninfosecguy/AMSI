@@ -19,13 +19,16 @@ namespace base64
 
             Console.WriteLine("Encoded text " + encodedText);
 
-            byte[] data2 = System.Convert.FromBase64String(encodedText);
+            ////byte[] data2 = System.Convert.FromBase64String(encodedText);
 
 
-            base64ToPlainText = System.Text.ASCIIEncoding.ASCII.GetString(data2);
+            //base64ToPlainText = System.Text.ASCIIEncoding.ASCII.GetString(data2);
+
+            base64ToPlainText = System.Text.ASCIIEncoding.ASCII.GetString(System.Convert.FromBase64String(encodedText));
 
             Console.WriteLine("Decoded String " + base64ToPlainText);
 
+            
 
         }
     }

@@ -1,0 +1,13 @@
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\bin\Debug\netcoreapp3.1\byteArray.exe
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\bin\Debug\netcoreapp3.1\byteArray.deps.json
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\bin\Debug\netcoreapp3.1\byteArray.runtimeconfig.json
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\bin\Debug\netcoreapp3.1\byteArray.runtimeconfig.dev.json
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\bin\Debug\netcoreapp3.1\byteArray.dll
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\bin\Debug\netcoreapp3.1\byteArray.pdb
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.csprojAssemblyReference.cache
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.AssemblyInfoInputs.cache
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.AssemblyInfo.cs
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.csproj.CoreCompileInputs.cache
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.dll
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.pdb
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\byteArray\byteArray\obj\Debug\netcoreapp3.1\byteArray.genruntimeconfig.cache
