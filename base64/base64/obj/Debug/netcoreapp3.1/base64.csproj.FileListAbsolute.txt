@@ -1,0 +1,13 @@
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\bin\Debug\netcoreapp3.1\base64.exe
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\bin\Debug\netcoreapp3.1\base64.deps.json
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\bin\Debug\netcoreapp3.1\base64.runtimeconfig.json
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\bin\Debug\netcoreapp3.1\base64.runtimeconfig.dev.json
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\bin\Debug\netcoreapp3.1\base64.dll
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\bin\Debug\netcoreapp3.1\base64.pdb
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.csprojAssemblyReference.cache
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.AssemblyInfoInputs.cache
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.AssemblyInfo.cs
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.csproj.CoreCompileInputs.cache
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.dll
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.pdb
+C:\Users\browninfosecguy\Documents\GitHub\AMSI\base64\base64\obj\Debug\netcoreapp3.1\base64.genruntimeconfig.cache
